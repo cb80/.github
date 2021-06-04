@@ -13,7 +13,7 @@ Our interpretation of trunk based development is:
   on the `main` branch of `upstream`.
 - `origin` is the name of *your* individual GitHub fork from which pull requests
   are created.
-- Clone `origin` on your develpment server and add remote `upstream`.
+- Clone `origin` on your development server and add remote `upstream`.
 - Before you start working pull the latest changes from the `main` branch of
   `upstream`. Then create a working branch based on `upstream/main` to implement
   your changes. Commit your changes in small sized but reasonable commits. Push
